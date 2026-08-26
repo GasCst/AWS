@@ -1,0 +1,16 @@
+
+
+1) SERVER FISICO DEDICATO ---> 2) VIRTUAL MACHINES ----> 3) CONTAINERS -----> 4) SERVERLESS FUNCTIONS
+
+1) with a dedicated server u have a lot of waste space.
+2) A solution is to run multiple virtual machines on the same dedicated server. So u minimize a lil bit the space not used , 
+    and u isolate each VM from others, so maximum isolation because each VM has its own COMPUTE RESOURCES ALLOCATED, if 
+    a malware affect 1 VM , the others aren't affected.
+3) VMs still have a bit of space unused. The solution is to use multiple CONTAINERS inside a VM , directed by a DAEMOn like 
+    DOCker Daemon. SO U MAXIMIZE SPACE utilization and containers are faster to load , than a VM. Because VM has to load 
+    the entire OS, instead containers has Shared kernel with the UNDERLYING OS ,so it just have to load the program, u need.
+4) The maximum level of abstraction is to just run a piece of code inside a container , inside a VMs. 
+    SERVERLESS mean u don't have to manage the server, but its managed for u by the SSP . 
+    Functions are only activated when its triggered an event, like an API call or something like that.
+
+
