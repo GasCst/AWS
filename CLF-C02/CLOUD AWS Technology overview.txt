@@ -1,0 +1,14 @@
+COMPUTE : EC2 virtual machines
+
+
+
+STORAGE : EBS virtual hard drives
+
+
+
+DATABASE : RDS Sequel Databases
+
+
+
+NETWORKING : VPC private cloud network
+
