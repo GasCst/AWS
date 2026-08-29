@@ -14,3 +14,13 @@ Amazon CloudFront (Off-ramp / CDN): È la rete per la distribuzione dei contenut
 VPC Endpoints: Consentono alle risorse interne alla tua rete privata virtuale (VPC) di comunicare 
     direttamente con i servizi AWS (come S3 o DynamoDB) rimanendo sempre dentro la rete privata di 
     AWS, senza mai passare per la rete Internet pubblica.
+
+
+![Global Network](./global-network.png)
+
+
+
+![alt text](image.png)
+
+
+    
