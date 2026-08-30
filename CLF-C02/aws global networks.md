@@ -23,4 +23,9 @@ VPC Endpoints: Consentono alle risorse interne alla tua rete privata virtuale (V
 ![alt text](/CLF-C02/zimages/image.png)
 
 
+
+
+
+
+![alt text](</CLF-C02/zimages/Screenshot 2026-08-30 alle 21.57.47.png>)
     
