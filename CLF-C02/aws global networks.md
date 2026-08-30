@@ -16,11 +16,11 @@ VPC Endpoints: Consentono alle risorse interne alla tua rete privata virtuale (V
     AWS, senza mai passare per la rete Internet pubblica.
 
 
-![Global Network](./global-network.png)
+![Global Network](/CLF-C02/zimages/global-network.png)
 
 
 
-![alt text](image.png)
+![alt text](/CLF-C02/zimages/image.png)
 
 
     
