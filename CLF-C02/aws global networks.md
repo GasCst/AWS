@@ -1,4 +1,4 @@
-Edge Locations (Rampe di ingresso e uscita - On/Off Ramps): Sono centinaia di punti di presenza 
+9Edge Locations (Rampe di ingresso e uscita - On/Off Ramps): Sono centinaia di punti di presenza 
     sparsi nelle principali città del mondo vicini agli utenti finali. Servono per far entrare o 
     uscire rapidamente i dati dall'autostrada privata AWS.
 
