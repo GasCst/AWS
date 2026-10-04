@@ -1,0 +1,3 @@
+Le aws local zones sono datacenter posizionati molto più vicino agli utenti finali rispetto a una normale AWS Region.
+
+Region -> Availability zones -> LOCAL ZONES -> edge locations.
