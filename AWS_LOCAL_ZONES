@@ -1,3 +1,10 @@
 Le aws local zones sono datacenter posizionati molto più vicino agli utenti finali rispetto a una normale AWS Region.
+Le local zones sono collegate comunque alle AWS REGION grandi.
 
 Region -> Availability zones -> LOCAL ZONES -> edge locations.
+
+The local zone for example : `us-west-2-lax-1a` is parented by the `us-west-2` Region.
+
+
+
+WAVELENGTH ZONES: 
