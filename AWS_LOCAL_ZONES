@@ -7,4 +7,7 @@ The local zone for example : `us-west-2-lax-1a` is parented by the `us-west-2` R
 
 
 
-WAVELENGTH ZONES: 
+WAVELENGTH ZONES: sono infrastrutture AWS installate vicino alle reti degli operatori telefonici 5G, 
+                  per permettere alle applicazioni di funzionare con una latenza molto bassa.
+                  Key feature : ultra low latency
+                  
