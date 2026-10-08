@@ -16,3 +16,8 @@ Data Residency — Residenza dei dati :
             In quale luogo geografico sono fisicamente conservati i dati?
             hai un database su AWS e scegli la Region eu-south-1 (Milano). 
             I dati del database,se configurato per rimanere in quella Region,saranno conservati a Milano.
+
+Data Sovereignty — Sovranità dei dati:
+            Significa quali leggi e autorità possono esercitare poteri sui dati.
+            se conservi dati personali in Italia, devi considerare il GDPR e le leggi applicabili
+            la posizione fisica non è l'unico fattore che determina quali leggi si applicano.
