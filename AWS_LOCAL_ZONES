@@ -10,4 +10,9 @@ The local zone for example : `us-west-2-lax-1a` is parented by the `us-west-2` R
 WAVELENGTH ZONES: sono infrastrutture AWS installate vicino alle reti degli operatori telefonici 5G, 
                   per permettere alle applicazioni di funzionare con una latenza molto bassa.
                   Key feature : ultra low latency
-                  
+
+
+Data Residency — Residenza dei dati :
+            In quale luogo geografico sono fisicamente conservati i dati?
+            hai un database su AWS e scegli la Region eu-south-1 (Milano). 
+            I dati del database,se configurato per rimanere in quella Region,saranno conservati a Milano.
