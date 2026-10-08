@@ -21,3 +21,16 @@ Data Sovereignty — Sovranità dei dati:
             Significa quali leggi e autorità possono esercitare poteri sui dati.
             se conservi dati personali in Italia, devi considerare il GDPR e le leggi applicabili
             la posizione fisica non è l'unico fattore che determina quali leggi si applicano.
+
+Compliance Boundaries — Confini di conformità:
+            Sono i limiti geografici o normativi che un'azienda deve rispettare.
+            Esempio: un'azienda stabilisce che i suoi dati non devono essere archiviati fuori dall'Unione Europea.
+            AWS offre strumenti per applicare e controllare queste regole.
+            
+
+Servizio	   |      A cosa serve, in parole semplici
+------------------------------------------------------------------
+AWS Config	   | Controlla continuamente che le risorse rispettino le regole configurate
+IAM Policies   | Permettono di negare determinate operazioni in specifiche Region
+Service Control| Policies (SCP)	Impongono limiti ai permessi degli account di un'organizzazione AWS
+AWS Outposts.  | Porta server e servizi AWS direttamente nel tuo data center
