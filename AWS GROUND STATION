@@ -5,4 +5,7 @@ AWS GROUND STATION:
         Surface imaging;
         Comunicazioni;
         Video Broadcasts.
+
+AWS OUTPOSTS:
+    è un servizio che permette di avere server fisici AWS direttamente nella tua azienda, invece di utilizzare soltanto i server presenti nei data center di Amazon.
     
